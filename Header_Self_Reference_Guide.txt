@@ -1,0 +1,88 @@
+HEADERS By { Daily Investors }
+
+
+1. General Headers
+  1. Cache-Control
+  2. Connection
+  3. Date
+  4. Pragma
+  5. Trailer
+  6. Transfer-Encdoing
+  7. Upgrade
+  8. Via
+  9. Warning
+  
+2. Request Headers
+  1. Accept
+  2. Accept-Language
+  3. Authorization
+  4. Expect
+  5. From
+  6. Host
+  7. If-match
+  8.If-Modified-Since
+  9. If-None-Match
+  10. If-Range
+  11. If-Unmodified-Since 
+  12. Max-Forward
+  13. Proxy-Authorization
+  14. Range
+  15. Referer
+  16. TE
+  17. User-Agent
+  
+3. Response Headers
+  1. Access-Control-Allow-Origin
+  2. Accept-Ranges
+  3. Age
+  4. Allow-Origin
+  5. Content-Disposition
+  6. Content-Encoding
+  7. Content-Language
+  8. Content-Length
+  9. Content-Type
+  10. ETag
+  11. Expires
+  12. Last-Modified-Since
+  13. Link
+  14. Location
+  15. Proxy-Authentication
+  16. Retry-After
+  17. Server
+  18. Set-Cookie
+  19. Vary
+  20. WWW-Authenticate
+  
+4. Entity Headers
+  1. Allow
+  2. Content-Encoding
+  3. Content-Language
+  4. Content-Location
+  5. Content-Range
+  6. Content-Type
+  
+5. Connection Headers
+  1. Connection
+  2. Keep-Alive
+  3. Proxy-Authenticate
+  4. Proxy-Authorization
+  5. TE
+  6. Trailers
+  7. Transfer-Encoding
+  8. Upgrade
+  
+6. Cookie Headers
+  1. Cookie
+  2. Set-Cookie
+  
+7. CORS Headers
+  1.Access-Control-Allow-Oirgin
+  2. Access-Control-Allow-Methods
+  3. Acess-Control-Allow-Headers
+  4. Access-Control-Allow-Credentials
+  5. Access-Control-Expose-Headers
+  6. Access-Control-Max-Age, and Origin
+  
+  
+  
+I appreciate any and all donations for my time and work. If anyone has questions, please contact.
